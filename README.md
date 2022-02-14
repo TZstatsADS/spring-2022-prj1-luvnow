@@ -12,7 +12,8 @@ Term: Spring 2022
 + Projec title: A "data story" on the history of philosophy
 + This project is conducted by Huiying Wang
 
-+ Project summary: [a short summary] What is interesting about modern philosophy? Specifically, empiricism?
++ Project summary: What is interesting about modern philosophy? Specifically, empiricism?
++ 
 Philosophy, as a discipline that shows people’s love for wisdom, has been exuding vigor and vitality for thousands of years. Philosophers think about different questions from different perspectives and give different answers, and various schools of philosophy are born.
 
 In this work, we will focus on modern philosophy. Here is an outline of questions we will talk about.
